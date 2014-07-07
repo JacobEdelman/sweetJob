@@ -1,0 +1,30 @@
+{
+  "name": "sweetJob",
+  "version": "0.0.0",
+  "description": "Sweet.js Work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacobEdelman/sweetJob.git"
+  },
+  "keywords": [
+    "sweetjs",
+    "sweet",
+    "javascript",
+    "macros",
+    "pretty",
+    "pythonesque"
+  ],
+  "author": "Jacob Edelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobEdelman/sweetJob/issues"
+  },
+  "homepage": "https://github.com/JacobEdelman/sweetJob",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
